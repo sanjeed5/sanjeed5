@@ -17,34 +17,34 @@ Community Dev at [Cursor](https://cursor.com) (user since 2023) and [LangChain A
 
 I help teams build AI agents that actually work — from prototype to production, with evals. [More about my consulting →](https://sanjeed.in/AI-Consulting)
 
-| Project | What I Built | Result |
-| ------- | ------------ | ------ |
-| [Support Copilot](https://sanjeed.in/Building-a-Support-Copilot-for-a-Hypergrowth-Startup) | AI copilot for a $10B+ startup's support team | 80% resolution rate |
-| [AI Video Agent](https://sanjeed.in/Building-an-AI-Video-Agent) | Automated video production pipeline | Client hit 6-figure revenue |
-| [GenUI Agent](https://sanjeed.in/Building-a-GenUI-AI-Agent-for-Enterprise) | AI-generated UI for enterprise retail | Presented at NRF 2025 & 2026 |
-| [Internal AI Agents](https://sanjeed.in/Building-Internal-AI-Agents-for-a-B2B-AI-Startup) | Suite of internal agents for B2B startup | — |
-| [AI Question Generator](https://sanjeed.in/Building-an-AI-Question-Generator-for-EdTech) | EdTech question generation with eval-driven quality | — |
-| [Voice AI Interview Bot](https://sanjeed.in/Building-a-Voice-AI-Interview-Bot) | Real-time voice AI for interviews | — |
-| [Travel AI Agent](https://sanjeed.in/Building-a-Travel-AI-Agent) | End-to-end travel planning agent | — |
-| [AI-Ready Docs](https://sanjeed.in/AI-Ready-Docs-for-Ragas) | Making documentation AI-agent friendly for Ragas | — |
+| Project | Description |
+| ------- | ----------- |
+| [Support Copilot](https://sanjeed.in/Building-a-Support-Copilot-for-a-Hypergrowth-Startup) | AI copilot for a $10B+ startup's support team — 80% resolution rate |
+| [AI Video Agent](https://sanjeed.in/Building-an-AI-Video-Agent) | Automated video production pipeline — client hit 6-figure revenue |
+| [GenUI Agent](https://sanjeed.in/Building-a-GenUI-AI-Agent-for-Enterprise) | AI-generated UI for enterprise retail — presented at NRF 2025 & 2026 |
+| [Internal AI Agents](https://sanjeed.in/Building-Internal-AI-Agents-for-a-B2B-AI-Startup) | Suite of internal agents for a B2B AI startup |
+| [AI Question Generator](https://sanjeed.in/Building-an-AI-Question-Generator-for-EdTech) | EdTech question generation with eval-driven quality |
+| [Voice AI Interview Bot](https://sanjeed.in/Building-a-Voice-AI-Interview-Bot) | Real-time voice AI for interviews |
+| [Travel AI Agent](https://sanjeed.in/Building-a-Travel-AI-Agent) | End-to-end travel planning agent |
+| [AI-Ready Docs](https://sanjeed.in/AI-Ready-Docs-for-Ragas) | Making documentation AI-agent friendly for Ragas |
 
 ## Open Source & Personal Builds
 
-| Project | What it does | Stars |
-| ------- | ------------ | ----- |
-| [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) | Curated list of Cursor Rules `.mdc` files | 3300+ |
-| [ai-conversation-simulator](https://github.com/sanjeed5/ai-conversation-simulator) | Simulate conversations between AI bot and AI user. Reposted by LangChain. | 46 |
-| [chatgpt-wrapped](https://github.com/sanjeed5/chatgpt-wrapped) | Your year with ChatGPT, visualized. Local-first, privacy-focused. | — |
-| [supercut](https://github.com/sanjeed5/supercut) | Combine clips of people saying a specific word from YouTube videos | — |
-| [obsidian-focus-checkin](https://github.com/sanjeed5/obsidian-focus-checkin) | Periodic focus reminders for Obsidian | — |
-| [cursor-slidev](https://github.com/sanjeed5/cursor-slidev) | Make presentation slides using Cursor | — |
-| [photo-reviewer](https://github.com/sanjeed5/photo-reviewer) | Tinder-style photo reviewer for selecting best photos fast | — |
-| [pingme](https://github.com/sanjeed5/pingme) | Teach AI agents to send scheduled desktop notifications | — |
-| [audio-video-sync](https://github.com/sanjeed5/audio-video-sync) | Auto-sync video with separately recorded audio | — |
-| [quiz-creator](https://github.com/sanjeed5/quiz-creator) | Extract MCQ questions from study guides using Gemini AI | — |
-| [whatsapp-sidebar-hider](https://github.com/sanjeed5/whatsapp-sidebar-hider) | Chrome extension to hide the WhatsApp sidebar | — |
-| [new-mac-setup](https://github.com/sanjeed5/new-mac-setup) | Backup and install your Mac setup in minutes | 20 |
-| [CoursePal](https://sanjeed.in/CoursePal---Shipped-product-in-2-days---6000+-users) | Shipped in 2 days. 6000+ users in college. | — |
+| Project | Description |
+| ------- | ----------- |
+| [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) | Curated list of Cursor Rules `.mdc` files — 3300+ stars |
+| [ai-conversation-simulator](https://github.com/sanjeed5/ai-conversation-simulator) | Simulate conversations between AI bot and AI user — reposted by LangChain |
+| [chatgpt-wrapped](https://github.com/sanjeed5/chatgpt-wrapped) | Your year with ChatGPT, visualized. Local-first, privacy-focused. |
+| [supercut](https://github.com/sanjeed5/supercut) | Combine clips of people saying a specific word from YouTube videos |
+| [obsidian-focus-checkin](https://github.com/sanjeed5/obsidian-focus-checkin) | Periodic focus reminders for Obsidian |
+| [cursor-slidev](https://github.com/sanjeed5/cursor-slidev) | Make presentation slides using Cursor |
+| [photo-reviewer](https://github.com/sanjeed5/photo-reviewer) | Tinder-style photo reviewer for selecting best photos fast |
+| [pingme](https://github.com/sanjeed5/pingme) | Teach AI agents to send scheduled desktop notifications |
+| [audio-video-sync](https://github.com/sanjeed5/audio-video-sync) | Auto-sync video with separately recorded audio |
+| [quiz-creator](https://github.com/sanjeed5/quiz-creator) | Extract MCQ questions from study guides using Gemini AI |
+| [whatsapp-sidebar-hider](https://github.com/sanjeed5/whatsapp-sidebar-hider) | Chrome extension to hide the WhatsApp sidebar |
+| [new-mac-setup](https://github.com/sanjeed5/new-mac-setup) | Backup and install your Mac setup in minutes |
+| [CoursePal](https://sanjeed.in/CoursePal---Shipped-product-in-2-days---6000+-users) | Shipped in 2 days. 6000+ users in college. |
 
 ## GitHub Activity
 
