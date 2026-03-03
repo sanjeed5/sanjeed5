@@ -10,7 +10,7 @@ Community Dev at [Cursor](https://cursor.com) (user since 2023) and [LangChain A
 - Built an **[AI Video Agent](https://sanjeed.in/Building-an-AI-Video-Agent)** — client went from stuck to 6-figure revenue
 - Built a **[GenUI Agent](https://sanjeed.in/Building-a-GenUI-AI-Agent-for-Enterprise)** for enterprise retail — presented at NRF 2025 & 2026
 - **[awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc)** — 3300+ GitHub stars
-- [5 more client builds →](https://sanjeed.in/AI-Consulting)
+- [More client builds →](https://sanjeed.in/AI-Consulting) · [All builds →](https://sanjeed.in/tags/builds)
 
 ## Open Source
 
@@ -42,7 +42,3 @@ I write about AI engineering, evals, and building at **[sanjeed.in](https://sanj
 ## Connect
 
 [X/Twitter](https://twitter.com/sanjeed_i) · [LinkedIn](https://www.linkedin.com/in/msanjeed) · [sanjeed.in](https://sanjeed.in) · [Instagram](https://www.instagram.com/sanjeed.i/) (for music)
-
----
-
-I [sing](https://www.instagram.com/sanjeed.i/) sometimes and have performed with 10+ instruments. I will literally fly for food.
