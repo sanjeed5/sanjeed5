@@ -25,7 +25,7 @@ Community Dev at [Cursor](https://cursor.com) (user since 2023) and [LangChain A
 
 ## Contributions
 
-Contributor to [Ragas](https://github.com/explodinggradients/ragas) (25+ PRs — docs, features, guides), [OpenInference](https://github.com/Arize-ai/openinference), [HuggingFace smolagents](https://github.com/huggingface/smolagents), [CrewAI](https://github.com/crewAIInc/crewAI), [LangChain](https://github.com/langchain-ai/agent-chat-ui), [Langfuse](https://github.com/langfuse/langfuse-docs), [HoneyHive](https://github.com/honeyhiveai/python-sdk), and [VoiceInk](https://github.com/Beingpax/VoiceInk).
+Contributor to [Ragas](https://github.com/vibrantlabsai/ragas) (25+ PRs — docs, features, guides), [OpenInference](https://github.com/Arize-ai/openinference), [HuggingFace smolagents](https://github.com/huggingface/smolagents), [CrewAI](https://github.com/crewAIInc/crewAI), [LangChain](https://github.com/langchain-ai/agent-chat-ui), [Langfuse](https://github.com/langfuse/langfuse-docs), [HoneyHive](https://github.com/honeyhiveai/python-sdk), and [VoiceInk](https://github.com/Beingpax/VoiceInk).
 
 ## GitHub Activity
 
